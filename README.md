@@ -1,7 +1,4 @@
-
-
-<!--
-**DrArrow/DrArrow** is a ✨ _special_ ✨ repository because its # <p align="center">👋 Hi, I'm DrArrow</p>
+# <p align="center">👋 Hi, I'm DrArrow</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Security+Tool+Developer;Ethical+Hacker;Detection+Engineering;Building+Practical+Cybersecurity+Tools" alt="Typing SVG"/>
@@ -166,11 +163,11 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/mayank-singh-34019340b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:arrowit06@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -193,16 +190,3 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 ⭐ Thanks for visiting my profile! ⭐
 
 </p>
-`README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
