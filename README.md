@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm DrArrow</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Security+Tool+Developer;Ethical+Hacker;Detection+Engineering;Building+Practical+Cybersecurity+Tools" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Security+Tool+Developer;Ethical+Hacker;Detection+Engineering;Building+Practical+Cybersecurity+Tools;Open+Source+Contributor" />
 </p>
 
 <h3 align="center">
@@ -13,8 +13,14 @@ Building practical cybersecurity tools through automation, research, and open so
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrArrow&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=DrArrow&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+# 🎯 Mission
+
+> Building practical cybersecurity tools that help security professionals automate tasks, improve visibility, and strengthen digital defenses through open-source innovation.
 
 ---
 
@@ -26,8 +32,9 @@ Building practical cybersecurity tools through automation, research, and open so
 * 🔍 Interested in Detection Engineering & Threat Hunting
 * ☁️ Learning Cloud Security
 * 📱 Expanding into Android Penetration Testing
+* 🤖 Exploring AI for Cybersecurity
 * ⚡ Automating security workflows with Python
-* 🚀 Continuously learning through hands-on projects
+* 🚀 Learning by building real-world projects
 
 ---
 
@@ -35,43 +42,41 @@ Building practical cybersecurity tools through automation, research, and open so
 
 ### 🔍 DRyhon-Security-Audit
 
-Security auditing tool designed to automate security assessments and identify common security weaknesses.
+Security auditing tool for automated security assessments.
 
 ### 🌐 ReconTool
 
-Reconnaissance toolkit for information gathering, asset discovery, and target enumeration.
+Reconnaissance toolkit for information gathering and target enumeration.
 
 ### 📡 PingSweeper
 
-Lightweight network host discovery utility for identifying active systems during security assessments.
+Fast and lightweight host discovery utility.
 
 ### ⚡ Security Automation
 
-Collection of Python-based utilities for automating repetitive cybersecurity tasks and workflows.
+Python utilities for automating cybersecurity workflows.
 
 ### 🐉 White Dragon Stealth *(Coming Soon)*
 
-A custom-built security assessment and system enumeration framework designed to identify exposed services, misconfigurations, and potential security weaknesses across target environments through intelligent automation.
+Custom-built system enumeration and vulnerability exposure framework designed to identify exposed services, misconfigured assets, active attack surfaces, and potential security weaknesses through intelligent automation.
 
 ### 📱 Android Pentesting Lab *(Coming Soon)*
 
-Hands-on Android application security testing environment using MobSF, Frida, JADX, and Burp Suite.
+Android application security testing using MobSF, Frida, JADX, Burp Suite and dynamic analysis.
 
 ### ☁️ Low-Cost SIEM / XDR *(In Progress)*
 
-Building an affordable security monitoring platform featuring:
-
 * Centralized Log Collection
-* Threat Detection
+* Detection Engineering
 * IOC Enrichment
+* Threat Detection
 * Malware Analysis
 * VirusTotal Integration
 * Automated Incident Response
-* Detection Engineering
 
 ### 🚀 More Projects Coming Soon...
 
-Continuously developing open-source cybersecurity tools, automation frameworks, and security research projects.
+Open-source security tools, automation frameworks, AI-powered security utilities, and research projects.
 
 ---
 
@@ -80,16 +85,26 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 * 🛡️ Security Tool Development
 * 🔍 Detection Engineering
 * 🐞 Bug Bounty
-* 📱 Android Penetration Testing
+* 📱 Android Pentesting
 * ☁️ Cloud Security
-* ⚡ Security Automation
 * 🤖 AI for Cybersecurity
+* ⚡ Security Automation
+
+---
+
+# 🧩 Core Principles
+
+* 🔒 Security by Design
+* ⚡ Automation First
+* 📖 Continuous Learning
+* 🌍 Open Source Mindset
+* 🛠️ Build • Break • Improve
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,java,c,cpp"/>
@@ -131,19 +146,35 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DrArrow&theme=algolia&no-frame=true&column=4"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrArrow&theme=tokyo-night"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DrArrow/DrArrow/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🤝 Open to Collaborate
+
+I'm always interested in collaborating on:
+
+* 🛡️ Cybersecurity Tools
+* ⚡ Security Automation
+* 🔍 Detection Engineering
+* ☁️ Cloud Security
+* 📱 Android Security
+* 🐍 Python Projects
+* 🌍 Open Source Security Initiatives
+
+If you're building something interesting, feel free to connect.
 
 ---
 
@@ -153,17 +184,16 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 * Microsoft Sentinel (SC-200)
 * Android Application Security
 * Malware Analysis
-* Cloud Security
-* Security Automation
 * Threat Hunting
+* AI for Cybersecurity
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+<p>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/mayank-singh-34019340b">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mayank-singh-34019340b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -183,10 +213,10 @@ Continuously developing open-source cybersecurity tools, automation frameworks, 
 
 <p align="center">
 
-### ⚔️ "Every line of code strengthens the defense."
+### ⚔️ Every line of code strengthens the defense.
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ **Thanks for visiting my profile!** ⭐
 
 </p>
