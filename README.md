@@ -1,29 +1,23 @@
-<p align="center">
-<img src="assets/banner.png" width="100%" alt="DrArrow Banner">
-</p>
-
 <h1 align="center">🛡️ DrArrow</h1>
 
-<h3 align="center">
-Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Practical+Cybersecurity+Tools;Detection+Engineering;Security+Automation;Threat+Hunting;Open+Source+Projects"/>
+Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Practical+Cybersecurity+Tools;Detection+Engineering;Security+Automation;Threat+Hunting;Open+Source+Projects"/>
+</p>
 
+<p align="center">
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mayank-singh-34019340b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=DrArrow&style=for-the-badge&color=blue"/>
-
+<img src="https://komarev.com/ghpvc/?username=DrArrow&style=for-the-badge"/>
 </p>
 
 ---
@@ -31,9 +25,9 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 # 👨‍💻 About
 
 - 🔐 Cybersecurity Enthusiast
-- 🛠️ Security Tool Developer
+- 🛠️ Building Practical Security Tools
 - 🔍 Detection Engineering
-- 📱 Android Security
+- 📱 Android Security Research
 - ☁️ Cloud Security
 - 🤖 AI for Cybersecurity
 
@@ -41,38 +35,13 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ DRyhon Security Audit | Windows Security Auditing Framework |
-| 🌐 ReconTool | Web Reconnaissance Toolkit |
-| 📡 PingSweeper | Network Discovery Tool |
-| 🐉 White Dragon Stealth | Attack Surface Assessment *(Coming Soon)* |
-| 📱 Android Pentesting Lab | Mobile Security Research *(Coming Soon)* |
-| ☁️ Low-Cost SIEM/XDR | Security Monitoring Platform *(In Progress)* |
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/DrArrow/DRyhon-Security-Audit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DrArrow&repo=DRyhon-Security-Audit&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/DrArrow/ReconTool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DrArrow&repo=ReconTool&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/DrArrow/PingSweeper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DrArrow&repo=PingSweeper&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+| Project | Status |
+|---------|--------|
+| 🛡️ DRyhon Security Audit | ✅ Released |
+| 🌐 ReconTool | 🚧 Development |
+| 📡 PingSweeper | ✅ Released |
+| 🐉 White Dragon Stealth | 🚀 Coming Soon |
+| 📱 Android Pentesting Lab | 🚀 Coming Soon |
 
 ---
 
@@ -92,15 +61,11 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 
 ### Security
 
-<p>
-
-Burp Suite • Nmap • Wireshark • Metasploit • Kali Linux • OWASP
-
-</p>
+`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `OWASP` • `Kali Linux`
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -112,18 +77,16 @@ Burp Suite • Nmap • Wireshark • Metasploit • Kali Linux • OWASP
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=DrArrow&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DrArrow&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrArrow&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -131,31 +94,18 @@ Burp Suite • Nmap • Wireshark • Metasploit • Kali Linux • OWASP
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/DrArrow/DrArrow/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
 # 🤝 Open to Collaborate
 
-- 🛡️ Security Tools
-- ⚡ Security Automation
-- 🔍 Detection Engineering
-- 📱 Android Security
-- 🐍 Python Projects
-- 🌍 Open Source
-
----
-
-# 🌱 Currently Learning
-
-- Microsoft Sentinel
+- Security Tool Development
 - Detection Engineering
+- Python Automation
 - Android Security
-- Malware Analysis
-- AI for Cybersecurity
+- Open Source Projects
 
 ---
 
@@ -163,8 +113,8 @@ Burp Suite • Nmap • Wireshark • Metasploit • Kali Linux • OWASP
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C853?style=for-the-badge"/>
+<a href="https://cybersecurity-portfolio-murex.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mayank-singh-34019340b">
@@ -177,10 +127,8 @@ Burp Suite • Nmap • Wireshark • Metasploit • Kali Linux • OWASP
 
 <p align="center">
 
-## ⚔️ Build • Break • Learn • Secure
+### ⚔️ Build • Break • Learn • Secure
 
-**Building Practical Cybersecurity Tools**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0052CC&height=120&section=footer"/>
+⭐ Thanks for visiting my profile!
 
 </p>
