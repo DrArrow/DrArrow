@@ -35,13 +35,67 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 
 # 🚀 Featured Projects
 
-| Project | Status |
-|---------|--------|
-| 🛡️ DRyhon Security Audit | ✅ Released |
-| 🌐 ReconTool | 🚧 Development |
-| 📡 PingSweeper | ✅ Released |
-| 🐉 White Dragon Stealth | 🚀 Coming Soon |
-| 📱 Android Pentesting Lab | 🚀 Coming Soon |
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 DIP-VIEW
+**Encrypted Archive Recovery Engine**
+
+High-performance encrypted archive recovery engine for Digital Forensics (DFIR) and Incident Response.
+
+</td>
+
+<td width="50%">
+
+### 🛡️ DRyhon Security Audit
+**Windows Security Auditing Framework**
+
+PowerShell-based Windows security auditing framework for rapid endpoint assessment and HTML reporting.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 ReconTool
+**Domain Reconnaissance Toolkit**
+
+Domain reconnaissance and enumeration toolkit for OSINT, asset discovery, and attack surface mapping.
+
+</td>
+
+<td width="50%">
+
+### 📡 PingSweeper
+**Network Discovery Tool**
+
+Lightweight network discovery utility for host enumeration and reconnaissance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐉 White Dragon Stealth *(Coming Soon)*
+**Attack Surface Assessment Framework**
+
+Advanced system enumeration and attack surface assessment framework.
+
+</td>
+
+<td width="50%">
+
+### ☁️ Low-Cost SIEM / XDR *(In Progress)*
+**Detection & Monitoring Platform**
+
+Affordable security monitoring platform focused on detection engineering, threat visibility, and incident response.
+
+</td>
+</tr>
+</table>
 
 ---
 
