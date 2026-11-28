@@ -116,10 +116,14 @@ Modular reconnaissance and host discovery utilities for OSINT, asset enumeration
 
 ---
 
-# 📈 Activity
+# 📊 GitHub Activity & Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrArrow&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=DrArrow&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/DrArrow/DrArrow/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
