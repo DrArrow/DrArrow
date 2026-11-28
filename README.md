@@ -106,15 +106,7 @@ Modular reconnaissance and host discovery utilities for OSINT, asset enumeration
 
 `Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `JADX` • `APKtool` • `Radare2` • `Microsoft Sentinel (KQL)` • `OWASP` • `Kali Linux` • `Parrot OS`
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DrArrow&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📊 GitHub Activity & Stats
 
