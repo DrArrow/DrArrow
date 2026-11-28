@@ -1,11 +1,11 @@
-<h1 align="center">🛡️ DrArrow</h1>
+<h1 align="center">🛡️ Mayank Singh (@DrArrow)</h1>
 
 <p align="center">
-Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
+Cybersecurity Consultant • Penetration Tester • Independent Security Researcher
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Practical+Cybersecurity+Tools;Detection+Engineering;Security+Automation;Threat+Hunting;Open+Source+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Offensive+Security+%26+VAPT+Automation;AI+%26+LLM+Security+Research;Android+Application+Security;Detection+Engineering+%26+DFIR;Building+Practical+Security+Tools"/>
 </p>
 
 <p align="center">
@@ -24,12 +24,11 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 
 # 👨‍💻 About
 
-- 🔐 Cybersecurity Enthusiast
-- 🛠️ Building Practical Security Tools
-- 🔍 Detection Engineering
-- 📱 Android Security Research
-- ☁️ Cloud Security
-- 🤖 AI for Cybersecurity
+- 🔐 **Cybersecurity Consultant & Penetration Tester** — Web, API, Network, Android, and AI/LLM VAPT
+- 🛠️ **Security Tool Developer** — Python offensive automation, recon, and reporting pipelines
+- 🤖 **AI & LLM Security** — OWASP Top 10 for LLM Applications & local/offline LLM security workflows
+- 📱 **Mobile & Endpoint Security** — Android APK static/dynamic analysis & Windows hypervisor trust research
+- 🔍 **Detection Engineering & DFIR** — KQL / Microsoft Sentinel, threat hunting, and digital forensics
 
 ---
 
@@ -39,63 +38,53 @@ Cybersecurity Enthusiast • Security Researcher • Security Tool Developer
 <tr>
 <td width="50%">
 
-### 🔐 DIP-VIEW
-**Encrypted Archive Recovery Engine**
+### 🐉 White Dragon *(Private Toolkit)*
+**TCP Recon & Exploit-DB Triage Engine**
 
-High-performance encrypted archive recovery engine for Digital Forensics (DFIR) and Incident Response.
+Multi-threaded Python recon framework with TLS inspection, protocol banner grabbing, heuristic version-range Exploit-DB scoring, and HTML/JSON dossiers.
 
 </td>
 
+<td width="50%">
+
+### 🔐 DIP-VIEW
+**Encrypted Archive Recovery Engine**
+
+High-performance encrypted archive recovery engine built for Digital Forensics (DFIR) and Incident Response workflows.
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🛡️ DRyhon Security Audit
 **Windows Security Auditing Framework**
 
-PowerShell-based Windows security auditing framework for rapid endpoint assessment and HTML reporting.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 ReconTool
-**Domain Reconnaissance Toolkit**
-
-Domain reconnaissance and enumeration toolkit for OSINT, asset discovery, and attack surface mapping.
+PowerShell-based Windows security auditing framework for rapid endpoint posture assessment and structured HTML reporting.
 
 </td>
 
 <td width="50%">
 
-### 📡 PingSweeper
-**Network Discovery Tool**
+### 🌐 ReconTool & PingSweeper
+**Network & Domain Reconnaissance Suite**
 
-Lightweight network discovery utility for host enumeration and reconnaissance.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐉 White Dragon Stealth *(Coming Soon)*
-**Attack Surface Assessment Framework**
-
-Advanced system enumeration and attack surface assessment framework.
-
-</td>
-
-<td width="50%">
-
-### ☁️ Low-Cost SIEM / XDR *(In Progress)*
-**Detection & Monitoring Platform**
-
-Affordable security monitoring platform focused on detection engineering, threat visibility, and incident response.
+Modular reconnaissance and host discovery utilities for OSINT, asset enumeration, and external attack-surface mapping.
 
 </td>
 </tr>
 </table>
+
+---
+
+# 🎓 Certifications & Milestones
+
+- **Certified LLM Security Expert (CLLMSE)**
+- **Certified Mobile Android Penetration Tester Junior (CMAPJ)** — Red Team Leaders
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+- **CCNA Certified Professional & Ethical Hacker**
+- **Rank #1 (`DrArrow`)** — OWASP Top 10 for LLM Applications Labs (OWASP Siliguri)
 
 ---
 
@@ -107,26 +96,22 @@ Affordable security monitoring platform focused on detection engineering, threat
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,java,c,cpp"/>
 </p>
 
-### Platforms
+### Platforms & Dev
 
 <p>
 <img src="https://skillicons.dev/icons?i=windows,linux,git,github,docker,azure,vscode"/>
 </p>
 
-### Security
+### Offensive, Mobile & SecOps
 
-`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `OWASP` • `Kali Linux`
+`Burp Suite` • `Nmap` • `Metasploit` • `Wireshark` • `JADX` • `APKtool` • `Radare2` • `Microsoft Sentinel (KQL)` • `OWASP` • `Kali Linux` • `Parrot OS`
 
 ---
 
 # 📊 GitHub Stats
 
-
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=DrArrow&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -147,13 +132,12 @@ Affordable security monitoring platform focused on detection engineering, threat
 
 ---
 
-# 🤝 Open to Collaborate
+# 🤝 Open to Collaborate & Consult
 
-- Security Tool Development
-- Detection Engineering
-- Python Automation
-- Android Security
-- Open Source Projects
+- Freelance VAPT & Security Consulting (Web, API, Network, Mobile & AI/LLM)
+- Enterprise / MNC Cybersecurity & Offensive Security Roles
+- Custom Security Tool Development & Python Automation
+- Detection Engineering & Digital Forensics Research
 
 ---
 
